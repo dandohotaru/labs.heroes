@@ -1,7 +1,8 @@
 var webpack = require('webpack');
+
 module.exports = {
   entry: {
-    vendor: ['./vendor.js']
+    vendor: ['./src/vendor.js']
   },
   output: {
     path: './dist',
