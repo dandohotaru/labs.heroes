@@ -1,14 +1,6 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Compiled binary
-build/Release
-dist
-
-# Dependency directories
+system-config.js*
+src/**/*.js
+src/**/*.map
 node_modules
+**/dist/*
 
-# Optional npm cache directory
-.npm
