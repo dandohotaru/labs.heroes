@@ -27,3 +27,13 @@ https://github.com/auth0/angular2-jwt
 ## Coding
 Visual Studio Code: Increasing Productivity via Key Binding Management
 http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/
+
+## Git
+git - the simple guide
+http://rogerdudler.github.io/git-guide/
+
+Comparing Workflows
+https://www.atlassian.com/git/tutorials/comparing-workflows
+
+AN OVERVIEW AND BASIC WORKFLOW
+https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/
