@@ -1,8 +1,12 @@
+
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { HeaderComponent } from './menus/header.component';
+import { FooterComponent } from './menus/footer.component';
+
 //import { AppRoutingModule } from './app.routing';
 
 @NgModule({
@@ -12,13 +16,17 @@ import { AppComponent } from './app.component';
         //AppRoutingModule,
     ],
     declarations: [
-        AppComponent
+        AppComponent,
+        HeaderComponent,
+        FooterComponent,
     ],
     providers: [
 
     ],
     bootstrap: [
-        AppComponent
+        AppComponent,
+        HeaderComponent,
+        FooterComponent
     ],
 })
 export class AppModule { }
