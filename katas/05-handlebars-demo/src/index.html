@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <script src="../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="../node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="index.js" type="text/javascript"></script>
+</head>
+
+<body>
+    
+    <div id="content">Loading...</div>
+
+    <script id="template" type="text/template">
+        {{#people}}
+            <div>
+                <img src="{{photo}}">
+                <b>
+                    <a href="{{twitter}}">{{family}} {{name}}</a>
+                </b> 
+                — {{title}}, {{place}} : {{introduction}}.
+            </div>
+        {{/people}}
+    </script>
+
+</body>
+
+</html>

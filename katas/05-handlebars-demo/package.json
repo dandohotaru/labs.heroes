@@ -1,0 +1,21 @@
+{
+  "name": "05-handlebars-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server --baseDir ./src --port 3333",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
