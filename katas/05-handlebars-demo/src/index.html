@@ -31,8 +31,32 @@
 <body>
     <div id="header">Header</div>
     <div id="menu">Menu</div>
-    <div id="content">Content</div>
+
+    <div id="content" class="container-fluid">
+
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+            <div class="col-sm-6">
+                <h6>Content for Main Page</h6>
+                <div id="entry"></div>
+            </div>
+            <div class="col-sm-3">
+            </div>
+        </div>
+        
+    </div>
+    
     <div id="footer">Footer</div>
 </body>
 
 </html>
+
+<script id="entry-template" type="text/x-handlebars-template">
+  <div class="entry">
+    <h1>{{title}}</h1>
+    <div class="body">
+      {{body}}
+    </div>
+  </div>
+</script>
