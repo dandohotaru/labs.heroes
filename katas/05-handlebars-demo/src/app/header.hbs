@@ -1,0 +1,21 @@
+<!-- template.html -->
+<script id="test-template" type="text/x-handlebars-template">
+  {{#each test}}
+    {{> foo}}
+    {{> bar}}
+  {{/each}}
+</script>
+
+<script id="foo-partial" type="text/x-handlebars-template">
+  <div class="foo">
+    <h2>{{foo}}</h2>
+    <div class="foo_bar">{{foo_bar}}</div>
+  </div>
+</script>
+
+<script id="bar-partial" type="text/x-handlebars-template">
+  <div class="bar">
+    <h2>{{bar}}</h2>
+    <div class="bar_foo">{{bar_foo}}</div>
+  </div>
+</script>

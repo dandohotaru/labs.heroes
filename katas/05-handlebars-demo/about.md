@@ -1,5 +1,15 @@
 # Notes
 
+## Start
+How it feels to learn JavaScript in 2016
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+The vuejs alternative path
+https://jsfiddle.net/chrisvfritz/aomd3y9n/
+
+JavaScript Fatigue Fatigue
+https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce
+
+
 ## Why
 Why use JS templating ?
 
