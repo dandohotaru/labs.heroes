@@ -72,6 +72,12 @@ $(document).ready(function () {
                     url: p.url,
                     rapporteur: p.rapporteur ? p.rapporteur.firstName + " " + p.rapporteur.lastName : null,
                     responsible: p.responsible ? p.responsible.firstName + " " + p.responsible.lastName : null
+
+                    // commissions: 
+                    //     id: c.bodyId,
+                    //     short: c.short,
+                    //     abbreviation: c.abbreviation,
+                    //     name: c.name
                 };
             });
             var cardSource   = $("#card-template").html();
