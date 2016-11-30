@@ -1,13 +1,15 @@
-$(document).ready(function() {
+$(document).ready(function () {
 
     var headerLoader = $.get("/app/shared/header.hbs");
     var menuLoader = $.get("/app/shared/menu.hbs");
     var footerLoader = $.get("/app/shared/footer.hbs");
     var notificationsLoader = $.getJSON("/api/notificatios.json");
     var themesLoader = $.getJSON("/api/themes.json");
+    var commissionsLoader = $.getJSON("/api/commissions.json");
+    var opinionsLoader = $.getJSON("/api/opinions.json");
 
-    $.when(headerLoader, menuLoader, footerLoader, notificationsLoader, themesLoader)
-        .done(function(headerResult, menuResult, footerResult, notificationsResult, themesResult) {
+    $.when(headerLoader, menuLoader, footerLoader, notificationsLoader, themesLoader, commissionsLoader, opinionsLoader)
+        .done(function (headerResult, menuResult, footerResult, notificationsResult, themesResult, commissionsResult, opinionsResult) {
 
             // Header
             var notificationsData = notificationsResult[0];
@@ -23,7 +25,7 @@ $(document).ready(function() {
             $("#header").html(headerMarkup);
 
             // Menu
-            var themesData = _.map(themesResult[0].themes, function(p) {
+            var themesData = _.map(themesResult[0].themes, function (p) {
                 return {
                     id: p.id,
                     name: p.name,
@@ -31,11 +33,52 @@ $(document).ready(function() {
                     url: "opinions/cards.html?themeId=" + p.id
                 };
             });
+            var commissionsData = _.map(commissionsResult[0], function (p) {
+                return {
+                    name: p.name,
+                    counter: Math.floor((Math.random() * 100) + 1),
+                    url: "browse/cards.html?commission=" + p.name
+                };
+            });
             var menuHtml = $($.parseHTML(menuResult[0])).filter("#menu-partial").html();
             var menuTemplate = Handlebars.compile(menuHtml);
             $("#menu").html(menuTemplate({
-                themes: themesData
+                themes: themesData,
+                commissions: commissionsData,
             }));
+
+            // Content
+            var parse = function(date){
+                var real = new Date(date);
+                var output = real.getDate() + "/" +  (real.getMonth() + 1) + "/" + real.getFullYear();
+                return output;
+            };
+
+            var sorted = _.sortBy(opinionsResult[0].opinions, function(p){
+                return new Date(p.adoption);
+            }).reverse();
+            var filtered = _.take(sorted, 100);
+            var opinionsData = _.map(filtered, function (p) {
+                return {
+                    type: p.type,
+                    date: parse(p.date),
+                    opinionId: p.opinionId,
+                    folder: p.folder,
+                    activation: parse(p.activation),
+                    adoption: parse(p.adoption),
+                    status: p.status,
+                    short: p.short,
+                    title: p.title,
+                    url: p.url,
+                    rapporteur: p.rapporteur ? p.rapporteur.firstName + " " + p.rapporteur.lastName : null,
+                    responsible: p.responsible ? p.responsible.firstName + " " + p.responsible.lastName : null
+                };
+            });
+            var cardSource   = $("#card-template").html();
+            var cardTemplate = Handlebars.compile(cardSource);
+            var cardMarkup = cardTemplate({
+                cards: opinionsData});
+            $("#cards").html(cardMarkup);
 
             // Footer
             var footerHtml = $($.parseHTML(footerResult[0])).filter("#footer-partial").html();
@@ -44,9 +87,16 @@ $(document).ready(function() {
                 lastUpdate: "30th of November 2016"
             }));
 
-        }).fail(function(error) {
+            $('.grid').colcade({
+                columns: '.grid-col',
+                items: '.grid-item'
+            });
+
+        }).fail(function (error) {
             console.error(error);
         });
+
+    
 
 });
 
