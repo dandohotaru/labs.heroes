@@ -1,9 +1,8 @@
-
 $(document).ready(function () {
 
-  var homeLoader = $.get("./app/shared/home.hbs");
-  var headerLoader = $.get("./app/shared/header.hbs");
-  var footerLoader = $.get("./app/shared/footer.hbs");
+  var homeLoader = $.get("./shared/home.hbs");
+  var headerLoader = $.get("./shared/header.hbs");
+  var footerLoader = $.get("./shared/footer.hbs");
 
   $.when(homeLoader, headerLoader, footerLoader)
     .done(function (homeResult, headerResult, footerResult) {
