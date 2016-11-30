@@ -1,41 +1,37 @@
 
 $(document).ready(function () {
 
-  var homeLoader = $.get("./app/shared/home.hbs");
-  var headerLoader = $.get("./app/shared/header.hbs");
-  var footerLoader = $.get("./app/shared/footer.hbs");
+  var headerLoader = $.get("/app/shared/header.hbs");
+  var footerLoader = $.get("/app/shared/footer.hbs");
+  var notificationsLoader = $.getJSON("/api/notificatios.json");
 
-  $.when(homeLoader, headerLoader, footerLoader)
-    .done(function (homeResult, headerResult, footerResult) {
+  $.when(headerLoader, footerLoader, notificationsLoader)
+    .done(function (headerResult, footerResult, notificationsResult) {
 
-      var homeHtml = $($.parseHTML(homeResult[0])).filter("#home-partial").html();
-      var headerHtml = $($.parseHTML(headerResult[0])).filter("#header-partial").html();
+      // Header
+      var notificationsData = notificationsResult[0];
+      var headerPartial = $($.parseHTML(headerResult[0])).filter("#header-partial").html();
+      var headerTemplate = Handlebars.compile(headerPartial);
+      var headerMarkup = headerTemplate({
+        user: {
+          firstName: "John",
+          lastName: "Doe"
+        },
+        notifications: notificationsData
+      });
+      $("#header").html(headerMarkup);
+
+      // Footer
       var footerHtml = $($.parseHTML(footerResult[0])).filter("#footer-partial").html();
-
-      var homeTemplate = Handlebars.compile(homeHtml);
-      $("#home").html(homeTemplate());
-
-      var headerTemplate = Handlebars.compile(headerHtml);
-      var headerData = {
-        foo: "Foo",
-        "foo_bar": "Foo-Bar",
-        bar: "Bar",
-        bar_foo: "Bar-Foo"
-      };
-      $("#header").html(headerTemplate(headerData));
-
       var footerTemplate = Handlebars.compile(footerHtml);
-      var footerData = {
-        bar: "Bar2",
-        bar_foo: "Bar-Foo2"
-      };
-      $("#footer").html(footerTemplate(footerData));
-
+      $("#footer").html(footerTemplate({
+        lastUpdate: "30th of November 2016"
+      }));
+      
 
     }).fail(function (error) {
       console.error(error);
     });
-
 });
 
 

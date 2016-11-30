@@ -1,8 +1,30 @@
 <script id="footer-partial" type="text/x-handlebars-template">
 
-  <div class={{bar}}>
-    <h2>{{bar}}</h2>
-    <div class={{bar_foo}}>{{bar_foo}}</div>
-  </div>
+ <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+  <footer class="footer">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-sm-4">
+          <p class="text-muted">
+            <a href="about.html">About Kiklos</a>&nbsp;&verbar;&nbsp;
+            <a href="glossary.html">Glossary</a>&nbsp;&verbar;&nbsp;
+            <a href="mailto:kiklos@cor.europa.eu?Subject=Hello%20KIKLOS team" target="_top">Contact us</a>&nbsp;&verbar;&nbsp;
+          </p>
+        </div>
+
+        <div class="col-sm-8 text-right">
+          <p class="text-muted text-right">
+            Last update: 
+            {{lastUpdate}} 
+            &nbsp;&verbar;&nbsp;
+            Powered by the Techday &copy;2016
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+</nav>
 
 </script>
