@@ -1,0 +1,4681 @@
+{
+  "meta": {
+    "total": 40,
+    "duration": "454,1351 miliseconds"
+  },
+  "opinions": [
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24337,
+      "folder": "NAT-VI/013",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Regulating price volatility of agricultural products",
+      "short": "Regulating price volatility of agricultural products",
+      "url": "/opinion/24337",
+      "rapporteur": {
+        "personId": 18005,
+        "firstName": "Jacques",
+        "lastName": "BLANC",
+        "aliasName": "jabl"
+      },
+      "administrator": {
+        "personId": 2022264,
+        "firstName": "prenom_7287",
+        "lastName": "nom_7287",
+        "aliasName": "alias_7287"
+      },
+      "cycles": [
+        {
+          "id": 24337,
+          "folder": "NAT-VI/013",
+          "name": "Regulating price volatility of agricultural products"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 111,
+              "name": "Agriculture",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24343,
+      "folder": "RESOL-VI/012",
+      "activation": "2016-07-08T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "short": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "url": "/opinion/24343",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2021538,
+        "firstName": "prenom_7886",
+        "lastName": "nom_7886",
+        "aliasName": "alias_7886"
+      },
+      "cycles": [
+        {
+          "id": 24343,
+          "folder": "RESOL-VI/012",
+          "name": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 137,
+              "name": "European semester / Economic Governance",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 24254,
+      "folder": "RESOL-VI/010",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the priorities for the 2017 Work Programme of the European Commission",
+      "short": "Resolution on the priorities for the 2017 Work Programme of the European Commission",
+      "url": "/opinion/24254",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2015959,
+        "firstName": "prenom_3323",
+        "lastName": "nom_3323",
+        "aliasName": "alias_3323"
+      },
+      "cycles": [
+        {
+          "id": 24254,
+          "folder": "RESOL-VI/010",
+          "name": "Resolution on the priorities for the 2017 Work Programme of the European Commission"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 110,
+          "name": "Constitutional and Institutional Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 240,
+              "name": "Resolutions E.C. Workprogram",
+              "source": "referral",
+              "main": null,
+              "parentId": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 24231,
+      "folder": "RESOL-VI/011",
+      "activation": "2016-04-06T00:00:00+02:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the Draft Annual EU budget for 2017 ",
+      "short": "Resolution on the Draft Annual EU budget for 2017 ",
+      "url": "/opinion/24231",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2032048,
+        "firstName": "prenom_12233",
+        "lastName": "nom_12233",
+        "aliasName": "alias_12233"
+      },
+      "cycles": [
+        {
+          "id": 24231,
+          "folder": "RESOL-VI/011",
+          "name": "Resolution on the Draft Annual EU budget for 2017 "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 135,
+              "name": "EU annual budget",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-16T00:00:00+02:00",
+      "opinionId": 24353,
+      "folder": "RESOL-VI/013",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-06-16T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on The situation of Europe Direct Information Centres (EDIC)",
+      "short": "Resolution on the situation of Europe Direct Information Centres (EDIC)",
+      "url": "/opinion/24353",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24353,
+          "folder": "RESOL-VI/013",
+          "name": "Resolution on the situation of Europe Direct Information Centres (EDIC)"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24477,
+      "folder": "SEDEC-VI/016",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council amending Directive 2010/13/EU on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services in view of changing market realities",
+      "short": "Review of the audio-visual and media services Directive (AMSD)",
+      "url": "/opinion/24477",
+      "rapporteur": {
+        "personId": 2032185,
+        "firstName": "Jacint",
+        "lastName": "HORVATH",
+        "aliasName": "jhorv"
+      },
+      "administrator": {
+        "personId": 2028547,
+        "firstName": "prenom_10472",
+        "lastName": "nom_10472",
+        "aliasName": "alias_10472"
+      },
+      "cycles": [
+        {
+          "id": 24477,
+          "folder": "SEDEC-VI/016",
+          "name": "Review of the audio-visual and media services Directive (AMSD)"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24365,
+      "folder": "ECON-VI/016",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A European agenda for the collaborative economy",
+      "short": "Collaborative economy and online platforms: a shared view of cities and regions",
+      "url": "/opinion/24365",
+      "rapporteur": {
+        "personId": 2032214,
+        "firstName": "Benedetta",
+        "lastName": "BRIGHENTI",
+        "aliasName": "bbrig"
+      },
+      "administrator": {
+        "personId": 2030746,
+        "firstName": "prenom_13325",
+        "lastName": "nom_13325",
+        "aliasName": "alias_13325"
+      },
+      "cycles": [
+        {
+          "id": 24365,
+          "folder": "ECON-VI/016",
+          "name": "Collaborative economy and online platforms: a shared view of cities and regions"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 150,
+              "name": "Internal market",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            },
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24256,
+      "folder": "SEDEC-VI/011",
+      "activation": "2016-05-11T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council amending Directive 96/71/EC of The European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services",
+      "short": "The Revision of the Posting of Workers Directive",
+      "url": "/opinion/24256",
+      "rapporteur": {
+        "personId": 2022341,
+        "firstName": "Yoomi",
+        "lastName": "RENSTRÖM",
+        "aliasName": "yren"
+      },
+      "administrator": {
+        "personId": 2030415,
+        "firstName": "prenom_12210",
+        "lastName": "nom_12210",
+        "aliasName": "alias_12210"
+      },
+      "cycles": [
+        {
+          "id": 24256,
+          "folder": "SEDEC-VI/011",
+          "name": "The Revision of the Posting of Workers Directive"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 165,
+              "name": "Labour mobility",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            },
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 23972,
+      "folder": "ENVE-VI/010",
+      "activation": "2015-12-09T00:00:00+01:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Proposal for a Directive of the European Parliament and of the Council amending Directive 2008/98/EC on waste",
+      "short": "Legislative proposals amending the waste directives",
+      "url": "/opinion/23972",
+      "rapporteur": {
+        "personId": 2032211,
+        "firstName": "Domenico",
+        "lastName": "GAMBACORTA",
+        "aliasName": "dgamb"
+      },
+      "administrator": {
+        "personId": 2020626,
+        "firstName": "prenom_8135",
+        "lastName": "nom_8135",
+        "aliasName": "alias_8135"
+      },
+      "cycles": [
+        {
+          "id": 23972,
+          "folder": "ENVE-VI/010",
+          "name": "Legislative proposals amending the waste directives"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 125,
+              "name": "Waste policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-08T00:00:00+01:00",
+      "opinionId": 24308,
+      "folder": "CIVEX-VI/013",
+      "activation": "2016-05-30T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Regulation of the European Parliament and of the Council establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast)",
+      "short": "Reform of the Common European Asylum System",
+      "url": "/opinion/24308",
+      "rapporteur": {
+        "personId": 22007,
+        "firstName": "Vincenzo",
+        "lastName": "BIANCO",
+        "aliasName": "vbian"
+      },
+      "administrator": {
+        "personId": 2022000,
+        "firstName": "prenom_7317",
+        "lastName": "nom_7317",
+        "aliasName": "alias_7317"
+      },
+      "cycles": [
+        {
+          "id": 24308,
+          "folder": "CIVEX-VI/013",
+          "name": "Reform of the Common European Asylum System"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 23981,
+      "folder": "NAT-VI/008",
+      "activation": "2015-12-02T00:00:00+01:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Food Waste",
+      "short": "Food Waste",
+      "url": "/opinion/23981",
+      "rapporteur": {
+        "personId": 2013735,
+        "firstName": "Ossi",
+        "lastName": "MARTIKAINEN",
+        "aliasName": "omar"
+      },
+      "administrator": {
+        "personId": 2016247,
+        "firstName": "prenom_6679",
+        "lastName": "nom_6679",
+        "aliasName": "alias_6679"
+      },
+      "cycles": [
+        {
+          "id": 23981,
+          "folder": "NAT-VI/008",
+          "name": "Food Waste"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 115,
+              "name": "Food production",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 125,
+              "name": "Waste policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-16T00:00:00+02:00",
+      "opinionId": 23928,
+      "folder": "CIVEX-VI/008",
+      "activation": "2015-11-06T00:00:00+01:00",
+      "adoption": "2016-06-16T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - EU Enlargement Strategy",
+      "short": "EU Enlargement Strategy 2015-2016",
+      "url": "/opinion/23928",
+      "rapporteur": {
+        "personId": 2032188,
+        "firstName": "Anna",
+        "lastName": "MAGYAR",
+        "aliasName": "amagy"
+      },
+      "administrator": {
+        "personId": 2023427,
+        "firstName": "prenom_6468",
+        "lastName": "nom_6468",
+        "aliasName": "alias_6468"
+      },
+      "cycles": [
+        {
+          "id": 23928,
+          "folder": "CIVEX-VI/008",
+          "name": "EU Enlargement Strategy 2015-2016"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 108,
+          "name": "External relations, Enlargement and Neighbourhood Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 172,
+              "name": "Turkey",
+              "source": "referral",
+              "main": null,
+              "parentId": 108
+            },
+            {
+              "id": 171,
+              "name": "Western Balkan region",
+              "source": "referral",
+              "main": null,
+              "parentId": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 23982,
+      "folder": "NAT-VI/009",
+      "activation": "2015-12-02T00:00:00+01:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Tourism as a driving force for regional cooperation across the EU",
+      "short": "Tourism as a driving force for regional cooperation across the EU",
+      "url": "/opinion/23982",
+      "rapporteur": {
+        "personId": 2031752,
+        "firstName": "Hanspeter",
+        "lastName": "WAGNER",
+        "aliasName": "hwagn"
+      },
+      "administrator": {
+        "personId": 2033445,
+        "firstName": "prenom_12541",
+        "lastName": "nom_12541",
+        "aliasName": "alias_12541"
+      },
+      "cycles": [
+        {
+          "id": 23982,
+          "folder": "NAT-VI/009",
+          "name": "Tourism as a driving force for regional cooperation across the EU"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 159,
+              "name": "Tourism",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 130,
+              "name": "Cross-border and territorial cooperation",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24176,
+      "folder": "NAT-VI/011",
+      "activation": "2016-03-29T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Regulation of the European Parliament and of the Council on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No  1098/2007, (CE) n° 1224/2009 and Regulations (UE) n° 1343/2011 et (UE) n° 1380/2013 of the European Parliament and of the Council, and repealing Council Regulations (CE) n° 894/97, (CE) n° 850/98, (CE) n° 2549/2000, (CE) n° 254/2002, (CE) n° 812/2004 and (CE) n° 2187/2005",
+      "short": "Technical measures in fisheries",
+      "url": "/opinion/24176",
+      "rapporteur": {
+        "personId": 2032364,
+        "firstName": "Emily",
+        "lastName": "WESTLEY",
+        "aliasName": "ewest"
+      },
+      "administrator": {
+        "personId": 2025291,
+        "firstName": "prenom_10342",
+        "lastName": "nom_10342",
+        "aliasName": "alias_10342"
+      },
+      "cycles": [
+        {
+          "id": 24176,
+          "folder": "NAT-VI/011",
+          "name": "Technical measures in fisheries"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 114,
+              "name": "Fisheries and maritime affairs",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 24142,
+      "folder": "ECON-VI/015",
+      "activation": "2016-03-29T00:00:00+02:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee, the Committee of the Regions and the European Investment Bank - Steel: Preserving sustainable jobs and growth in Europe",
+      "short": "Steel: Preserving sustainable jobs and growth in Europe",
+      "url": "/opinion/24142",
+      "rapporteur": {
+        "personId": 2029668,
+        "firstName": "Isolde",
+        "lastName": "RIES",
+        "aliasName": "irie"
+      },
+      "administrator": {
+        "personId": 2015959,
+        "firstName": "prenom_3323",
+        "lastName": "nom_3323",
+        "aliasName": "alias_3323"
+      },
+      "cycles": [
+        {
+          "id": 24142,
+          "folder": "ECON-VI/015",
+          "name": "Steel: Preserving sustainable jobs and growth in Europe"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 146,
+              "name": "Industrial policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-08T00:00:00+01:00",
+      "opinionId": 24344,
+      "folder": "CIVEX-VI/014",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council on the conditions of entry and residence of third-country nationals for the purposes of highly skilled employment ",
+      "short": "Legal migration",
+      "url": "/opinion/24344",
+      "rapporteur": {
+        "personId": 2028455,
+        "firstName": "Olgierd",
+        "lastName": "GEBLEWICZ",
+        "aliasName": "ogeb"
+      },
+      "administrator": {
+        "personId": 2015153,
+        "firstName": "prenom_3192",
+        "lastName": "nom_3192",
+        "aliasName": "alias_3192"
+      },
+      "cycles": [
+        {
+          "id": 24344,
+          "folder": "CIVEX-VI/014",
+          "name": "Legal migration"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-08T00:00:00+01:00",
+      "opinionId": 24345,
+      "folder": "CIVEX-VI/015",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Action Plan on the integration of third country nationals",
+      "short": "Integration of third country nationals",
+      "url": "/opinion/24345",
+      "rapporteur": {
+        "personId": 2032131,
+        "firstName": "Karl",
+        "lastName": "VANLOUWE",
+        "aliasName": "kvanl"
+      },
+      "administrator": {
+        "personId": 2030205,
+        "firstName": "prenom_10935",
+        "lastName": "nom_10935",
+        "aliasName": "alias_10935"
+      },
+      "cycles": [
+        {
+          "id": 24345,
+          "folder": "CIVEX-VI/015",
+          "name": "Integration of third country nationals"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24387,
+      "folder": "SEDEC-VI/015",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A New Skills Agenda for Europe - Working together to strengthen human capital, employability and competitiveness ",
+      "short": "A new skills Agenda for Europe ",
+      "url": "/opinion/24387",
+      "rapporteur": {
+        "personId": 2027553,
+        "firstName": "Marie-Louise",
+        "lastName": "RÖNNMARK",
+        "aliasName": "mron"
+      },
+      "administrator": {
+        "personId": 2028179,
+        "firstName": "prenom_10296",
+        "lastName": "nom_10296",
+        "aliasName": "alias_10296"
+      },
+      "cycles": [
+        {
+          "id": 24387,
+          "folder": "SEDEC-VI/015",
+          "name": "A new skills Agenda for Europe "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 162,
+              "name": "Education",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-15T00:00:00+02:00",
+      "opinionId": 24010,
+      "folder": "COTER-VI/014",
+      "activation": "2016-02-09T00:00:00+01:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Mid-term revision of the Multiannual Financial Framework (MFF) ",
+      "short": "Mid-term revision of the Multiannual Financial Framework (MFF) ",
+      "url": "/opinion/24010",
+      "rapporteur": {
+        "personId": 19019,
+        "firstName": "Luc",
+        "lastName": "VAN DEN BRANDE",
+        "aliasName": "lvan"
+      },
+      "administrator": {
+        "personId": 2032048,
+        "firstName": "prenom_12233",
+        "lastName": "nom_12233",
+        "aliasName": "alias_12233"
+      },
+      "cycles": [
+        {
+          "id": 24010,
+          "folder": "COTER-VI/014",
+          "name": "Mid-term revision of the Multiannual Financial Framework (MFF) "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 136,
+              "name": "Multi-annual financial framework (MFF)",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-16T00:00:00+02:00",
+      "opinionId": 23901,
+      "folder": "SEDEC-VI/008",
+      "activation": "2015-10-12T00:00:00+02:00",
+      "adoption": "2016-06-16T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "The state of play of the EU response to the demographic challenge – Experiences and demands from Europe's cities and regions",
+      "short": "The EU response to the demographic challenge ",
+      "url": "/opinion/23901",
+      "rapporteur": {
+        "personId": 2013273,
+        "firstName": "Juan Vicente",
+        "lastName": "HERRERA CAMPO",
+        "aliasName": "jher"
+      },
+      "administrator": {
+        "personId": 2030187,
+        "firstName": "prenom_9757",
+        "lastName": "nom_9757",
+        "aliasName": "alias_9757"
+      },
+      "cycles": [
+        {
+          "id": 23901,
+          "folder": "SEDEC-VI/008",
+          "name": "The EU response to the demographic challenge "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 167,
+              "name": "Demographic change",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-16T00:00:00+02:00",
+      "opinionId": 23944,
+      "folder": "CIVEX-VI/010",
+      "activation": "2015-12-02T00:00:00+01:00",
+      "adoption": "2016-06-16T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Combatting Radicalisation and Violent Extremism: Prevention mechanisms at local and regional level",
+      "short": "Combatting Radicalisation and Violent Extremism: Prevention mechanisms at local and regional level",
+      "url": "/opinion/23944",
+      "rapporteur": {
+        "personId": 2015893,
+        "firstName": "Bartolomeus (Bart)",
+        "lastName": "SOMERS",
+        "aliasName": "bsome"
+      },
+      "administrator": {
+        "personId": 2015153,
+        "firstName": "prenom_3192",
+        "lastName": "nom_3192",
+        "aliasName": "alias_3192"
+      },
+      "cycles": [
+        {
+          "id": 23944,
+          "folder": "CIVEX-VI/010",
+          "name": "Combatting Radicalisation and Violent Extremism: Prevention mechanisms at local and regional level"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 179,
+              "name": "Area of freedom, security and justice",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            },
+            {
+              "id": 180,
+              "name": "Terrorism",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24560,
+      "folder": "RESOL-VI/014",
+      "activation": "2016-09-14T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Proposal for a Decision of the European Parliament and of the Council on a European Year of Cultural Heritage ",
+      "short": "Resolution on the European Year of Cultural Heritage in 2018",
+      "url": "/opinion/24560",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2028179,
+        "firstName": "prenom_10296",
+        "lastName": "nom_10296",
+        "aliasName": "alias_10296"
+      },
+      "cycles": [
+        {
+          "id": 24560,
+          "folder": "RESOL-VI/014",
+          "name": "Resolution on the European Year of Cultural Heritage in 2018"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 163,
+              "name": "Culture",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            },
+            {
+              "id": 162,
+              "name": "Education",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24588,
+      "folder": "COTER-VI/019",
+      "activation": "2016-10-11T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) No 1316/2013 and (EU) 2015/1017 as regards the extension of the duration of the European Fund for Strategic Investments as well as the introduction of technical enhancements for that Fund and the European Investment Advisory Hub",
+      "short": "EFSI 2.0",
+      "url": "/opinion/24588",
+      "rapporteur": {
+        "personId": 2026054,
+        "firstName": "Wim",
+        "lastName": "VAN DE DONK",
+        "aliasName": "wvan"
+      },
+      "administrator": {
+        "personId": 2032048,
+        "firstName": "prenom_12233",
+        "lastName": "nom_12233",
+        "aliasName": "alias_12233"
+      },
+      "cycles": [
+        {
+          "id": 24588,
+          "folder": "COTER-VI/019",
+          "name": "EFSI 2.0"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 128,
+              "name": "European Fund for Strategic Investment (EFSI)",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24621,
+      "folder": "RESOL-VI/015",
+      "activation": "2016-09-29T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the Mid-term Review of the Multiannual Financial Framework ",
+      "short": "Resolution on the Mid-term Review of the Multiannual Financial Framework (MFF)",
+      "url": "/opinion/24621",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24621,
+          "folder": "RESOL-VI/015",
+          "name": "Resolution on the Mid-term Review of the Multiannual Financial Framework (MFF)"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 136,
+              "name": "Multi-annual financial framework (MFF)",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-07T00:00:00+01:00",
+      "opinionId": 24108,
+      "folder": "CIVEX-VI/012",
+      "activation": "2016-01-14T00:00:00+01:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "The REFIT Programme: the local and regional perspective",
+      "short": "The REFIT Programme: the local and regional perspective",
+      "url": "/opinion/24108",
+      "rapporteur": {
+        "personId": 2029189,
+        "firstName": "François",
+        "lastName": "DECOSTER",
+        "aliasName": "fdec"
+      },
+      "administrator": {
+        "personId": 2015922,
+        "firstName": "prenom_5788",
+        "lastName": "nom_5788",
+        "aliasName": "alias_5788"
+      },
+      "cycles": [
+        {
+          "id": 24108,
+          "folder": "CIVEX-VI/012",
+          "name": "The REFIT Programme: the local and regional perspective"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 110,
+          "name": "Constitutional and Institutional Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 187,
+              "name": "REFIT and better law-making",
+              "source": "referral",
+              "main": null,
+              "parentId": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24136,
+      "folder": "ENVE-VI/013",
+      "activation": "2016-04-06T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Delivering the global climate agreement – a territorial approach to COP22 in Marrakesh",
+      "short": "Delivering the global climate agreement – a territorial approach to COP22 in Marrakesh",
+      "url": "/opinion/24136",
+      "rapporteur": {
+        "personId": 2031753,
+        "firstName": "Francesco",
+        "lastName": "PIGLIARU",
+        "aliasName": "fpigl"
+      },
+      "administrator": {
+        "personId": 2030409,
+        "firstName": "prenom_13243",
+        "lastName": "nom_13243",
+        "aliasName": "alias_13243"
+      },
+      "cycles": [
+        {
+          "id": 24136,
+          "folder": "ENVE-VI/013",
+          "name": "Delivering the global climate agreement – a territorial approach to COP22 in Marrakesh"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 120,
+              "name": "Climate change",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24137,
+      "folder": "ENVE-VI/012",
+      "activation": "2016-02-22T00:00:00+01:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – An EU Strategy on Heating and Cooling  ",
+      "short": "An EU Strategy on Heating and Cooling  ",
+      "url": "/opinion/24137",
+      "rapporteur": {
+        "personId": 2025669,
+        "firstName": "Daiva",
+        "lastName": "MATONIENE",
+        "aliasName": "dmat"
+      },
+      "administrator": {
+        "personId": 2022798,
+        "firstName": "prenom_6565",
+        "lastName": "nom_6565",
+        "aliasName": "alias_6565"
+      },
+      "cycles": [
+        {
+          "id": 24137,
+          "folder": "ENVE-VI/012",
+          "name": "An EU Strategy on Heating and Cooling  "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 104,
+          "name": "Energy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 139,
+              "name": "Energy Union and infrastructure",
+              "source": "referral",
+              "main": null,
+              "parentId": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24008,
+      "folder": "COTER-VI/012",
+      "activation": "2016-03-29T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Simplification of ESIF from the perspective of Local and Regional Authorities  ",
+      "short": "Simplification of ESIF from the perspective of Local and Regional Authorities  ",
+      "url": "/opinion/24008",
+      "rapporteur": {
+        "personId": 2018483,
+        "firstName": "Petr",
+        "lastName": "OSVALD",
+        "aliasName": "posv"
+      },
+      "administrator": {
+        "personId": 2031329,
+        "firstName": "prenom_12149",
+        "lastName": "nom_12149",
+        "aliasName": "alias_12149"
+      },
+      "cycles": [
+        {
+          "id": 24008,
+          "folder": "COTER-VI/012",
+          "name": "Simplification of ESIF from the perspective of Local and Regional Authorities  "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 127,
+              "name": "European Structural and Investment Funds",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24179,
+      "folder": "SEDEC-VI/010",
+      "activation": "2016-03-29T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Launching a consultation on a European Pillar of Social Rights",
+      "short": "The European Pillar of Social Rights",
+      "url": "/opinion/24179",
+      "rapporteur": {
+        "personId": 2025809,
+        "firstName": "Heinz-Joachim",
+        "lastName": "HÖFER",
+        "aliasName": "hhof"
+      },
+      "administrator": {
+        "personId": 2030187,
+        "firstName": "prenom_9757",
+        "lastName": "nom_9757",
+        "aliasName": "alias_9757"
+      },
+      "cycles": [
+        {
+          "id": 24179,
+          "folder": "SEDEC-VI/010",
+          "name": "The European Pillar of Social Rights"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 168,
+              "name": "Social protection",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            },
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            },
+            {
+              "id": 201,
+              "name": "Equal opportunities",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 23940,
+      "folder": "CIVEX-VI/011",
+      "activation": "2015-11-27T00:00:00+01:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Joint Communication to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Review of the European Neighbourhood Policy ",
+      "short": "Review of the European Neighbourhood Policy",
+      "url": "/opinion/23940",
+      "rapporteur": {
+        "personId": 2032160,
+        "firstName": "Anne",
+        "lastName": "QUART",
+        "aliasName": "aquar"
+      },
+      "administrator": {
+        "personId": 2027363,
+        "firstName": "prenom_10372",
+        "lastName": "nom_10372",
+        "aliasName": "alias_10372"
+      },
+      "cycles": [
+        {
+          "id": 23940,
+          "folder": "CIVEX-VI/011",
+          "name": "Review of the European Neighbourhood Policy"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 108,
+          "name": "External relations, Enlargement and Neighbourhood Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 169,
+              "name": "Eastern partnership and Russia",
+              "source": "referral",
+              "main": null,
+              "parentId": 108
+            },
+            {
+              "id": 170,
+              "name": "Euro-Mediterranean partnership",
+              "source": "referral",
+              "main": null,
+              "parentId": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 23957,
+      "folder": "ECON-VI/012",
+      "activation": "2015-12-09T00:00:00+01:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 806/2014 in order to establish a European Deposit Insurance Scheme",
+      "short": "The European Deposit Insurance Scheme (EDIS)",
+      "url": "/opinion/23957",
+      "rapporteur": {
+        "personId": 2012318,
+        "firstName": "Hans-Jörg",
+        "lastName": "DUPPRÉ",
+        "aliasName": "hdup"
+      },
+      "administrator": {
+        "personId": 2032877,
+        "firstName": "prenom_13309",
+        "lastName": "nom_13309",
+        "aliasName": "alias_13309"
+      },
+      "cycles": [
+        {
+          "id": 23957,
+          "folder": "ECON-VI/012",
+          "name": "The European Deposit Insurance Scheme (EDIS)"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 133,
+              "name": "Economic and Monetary Union (EMU)",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 23994,
+      "folder": "COTER-VI/011",
+      "activation": "2016-01-14T00:00:00+01:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - An Aviation Strategy for Europe",
+      "short": "Aviation Strategy",
+      "url": "/opinion/23994",
+      "rapporteur": {
+        "personId": 2030276,
+        "firstName": "Ulrika",
+        "lastName": "CARLEFALL LANDERGREN",
+        "aliasName": "ucar"
+      },
+      "administrator": {
+        "personId": 2026113,
+        "firstName": "prenom_10283",
+        "lastName": "nom_10283",
+        "aliasName": "alias_10283"
+      },
+      "cycles": [
+        {
+          "id": 23994,
+          "folder": "COTER-VI/011",
+          "name": "Aviation Strategy"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 105,
+          "name": "Transport",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 142,
+              "name": "Air transport",
+              "source": "referral",
+              "main": null,
+              "parentId": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-12-08T00:00:00+01:00",
+      "opinionId": 24662,
+      "folder": "RESOL-VI/16",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Resolution on the European Commission's 2017 Work Programme   ",
+      "short": "Resolution on the European Commission's 2017 Work Programme   ",
+      "url": "/opinion/24662",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24662,
+          "folder": "RESOL-VI/16",
+          "name": "Resolution on the European Commission's 2017 Work Programme   "
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 110,
+          "name": "Constitutional and Institutional Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 240,
+              "name": "Resolutions E.C. Workprogram",
+              "source": "referral",
+              "main": null,
+              "parentId": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24292,
+      "folder": "SEDEC-VI/013",
+      "activation": "2016-05-11T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions -  EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government",
+      "short": "eGovernment Action Plan 2016-2020 ",
+      "url": "/opinion/24292",
+      "rapporteur": {
+        "personId": 2027551,
+        "firstName": "Martin",
+        "lastName": "ANDREASSON",
+        "aliasName": "mand"
+      },
+      "administrator": {
+        "personId": 2028547,
+        "firstName": "prenom_10472",
+        "lastName": "nom_10472",
+        "aliasName": "alias_10472"
+      },
+      "cycles": [
+        {
+          "id": 24292,
+          "folder": "SEDEC-VI/013",
+          "name": "eGovernment Action Plan 2016-2020 "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24009,
+      "folder": "COTER-VI/013",
+      "activation": "2016-02-09T00:00:00+01:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "An EU Roadmap for Cycling",
+      "short": "An EU Roadmap for Cycling",
+      "url": "/opinion/24009",
+      "rapporteur": {
+        "personId": 2032362,
+        "firstName": "Kevin ",
+        "lastName": "PEEL",
+        "aliasName": "kpeel"
+      },
+      "administrator": {
+        "personId": 2031982,
+        "firstName": "prenom_12066",
+        "lastName": "nom_12066",
+        "aliasName": "alias_12066"
+      },
+      "cycles": [
+        {
+          "id": 24009,
+          "folder": "COTER-VI/013",
+          "name": "An EU Roadmap for Cycling"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 105,
+          "name": "Transport",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 203,
+              "name": "Urban mobility",
+              "source": "referral",
+              "main": null,
+              "parentId": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24140,
+      "folder": "ECON-VI/013",
+      "activation": "2016-04-06T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "State Aid and Services of General Economic Interest ",
+      "short": "State Aid and Services of General Economic Interest ",
+      "url": "/opinion/24140",
+      "rapporteur": {
+        "personId": 2029658,
+        "firstName": "Markus",
+        "lastName": "TÖNS",
+        "aliasName": "mton"
+      },
+      "administrator": {
+        "personId": 2033425,
+        "firstName": "prenom_12440",
+        "lastName": "nom_12440",
+        "aliasName": "alias_12440"
+      },
+      "cycles": [
+        {
+          "id": 24140,
+          "folder": "ECON-VI/013",
+          "name": "State Aid and Services of General Economic Interest "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 157,
+              "name": "Services of general economic interest",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            },
+            {
+              "id": 147,
+              "name": "State aid and competition",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 24252,
+      "folder": "ECON-VI/017",
+      "activation": "2016-05-11T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee on an action plan on VAT: Towards a single EU VAT area - Time to decide",
+      "short": "Action Plan on VAT: Towards a single EU VAT area",
+      "url": "/opinion/24252",
+      "rapporteur": {
+        "personId": 2027547,
+        "firstName": "Dainis",
+        "lastName": "TURLAIS",
+        "aliasName": "dtur"
+      },
+      "administrator": {
+        "personId": 2031688,
+        "firstName": "prenom_13331",
+        "lastName": "nom_13331",
+        "aliasName": "alias_13331"
+      },
+      "cycles": [
+        {
+          "id": 24252,
+          "folder": "ECON-VI/017",
+          "name": "Action Plan on VAT: Towards a single EU VAT area"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 149,
+              "name": "Taxation",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-12T00:00:00+02:00",
+      "opinionId": 23974,
+      "folder": "ENVE-VI/011",
+      "activation": "2015-12-09T00:00:00+01:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – Closing the loop – An EU action plan for the Circular Economy",
+      "short": "Closing the loop – An EU action plan for the Circular Economy",
+      "url": "/opinion/23974",
+      "rapporteur": {
+        "personId": 2032153,
+        "firstName": "Babette",
+        "lastName": "WINTER",
+        "aliasName": "bwint"
+      },
+      "administrator": {
+        "personId": 2020626,
+        "firstName": "prenom_8135",
+        "lastName": "nom_8135",
+        "aliasName": "alias_8135"
+      },
+      "cycles": [
+        {
+          "id": 23974,
+          "folder": "ENVE-VI/011",
+          "name": "Closing the loop – An EU action plan for the Circular Economy"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 122,
+              "name": "Sustainable development",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            },
+            {
+              "id": 125,
+              "name": "Waste policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24291,
+      "folder": "SEDEC-VI/012",
+      "activation": "2016-05-11T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - European Cloud Initiative - Building a competitive data and knowledge economy in Europe",
+      "short": "European Cloud Initiative and ICT Standardisation",
+      "url": "/opinion/24291",
+      "rapporteur": {
+        "personId": 2024977,
+        "firstName": "Anne",
+        "lastName": "KARJALAINEN",
+        "aliasName": "akarj"
+      },
+      "administrator": {
+        "personId": 2030634,
+        "firstName": "prenom_12956",
+        "lastName": "nom_12956",
+        "aliasName": "alias_12956"
+      },
+      "cycles": [
+        {
+          "id": 24291,
+          "folder": "SEDEC-VI/012",
+          "name": "European Cloud Initiative and ICT Standardisation"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            },
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24294,
+      "folder": "SEDEC-VI/014",
+      "activation": "2016-05-11T00:00:00+02:00",
+      "adoption": "2016-10-11T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Digitising European Industry - Reaping the full benefits of a Digital Single Market",
+      "short": "Digitising European Industry ",
+      "url": "/opinion/24294",
+      "rapporteur": {
+        "personId": 2032202,
+        "firstName": "Kieran",
+        "lastName": "MCCARTHY",
+        "aliasName": "kmcca"
+      },
+      "administrator": {
+        "personId": 2023703,
+        "firstName": "prenom_7001",
+        "lastName": "nom_7001",
+        "aliasName": "alias_7001"
+      },
+      "cycles": [
+        {
+          "id": 24294,
+          "folder": "SEDEC-VI/014",
+          "name": "Digitising European Industry "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24337,
+      "folder": "NAT-VI/013",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Regulating price volatility of agricultural products",
+      "short": "Regulating price volatility of agricultural products",
+      "url": "/opinion/24337",
+      "rapporteur": {
+        "personId": 18005,
+        "firstName": "Jacques",
+        "lastName": "BLANC",
+        "aliasName": "jabl"
+      },
+      "administrator": {
+        "personId": 2022264,
+        "firstName": "prenom_7287",
+        "lastName": "nom_7287",
+        "aliasName": "alias_7287"
+      },
+      "cycles": [
+        {
+          "id": 24337,
+          "folder": "NAT-VI/013",
+          "name": "Regulating price volatility of agricultural products"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 111,
+              "name": "Agriculture",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24338,
+      "folder": "NAT-VI/012",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Supporting young European farmers",
+      "short": "Supporting young European farmers",
+      "url": "/opinion/24338",
+      "rapporteur": {
+        "personId": 2025931,
+        "firstName": "Arnold",
+        "lastName": "HATCH",
+        "aliasName": "ahat"
+      },
+      "administrator": {
+        "personId": 2022264,
+        "firstName": "prenom_7287",
+        "lastName": "nom_7287",
+        "aliasName": "alias_7287"
+      },
+      "cycles": [
+        {
+          "id": 24338,
+          "folder": "NAT-VI/012",
+          "name": "Supporting young European farmers"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 111,
+              "name": "Agriculture",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-08T00:00:00+02:00",
+      "opinionId": 24341,
+      "folder": "RESOL-VI/011",
+      "activation": "2016-07-08T00:00:00+02:00",
+      "adoption": null,
+      "status": "Sans Intéret",
+      "title": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "short": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "url": "/opinion/24341",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2021538,
+        "firstName": "prenom_7886",
+        "lastName": "nom_7886",
+        "aliasName": "alias_7886"
+      },
+      "cycles": [
+        {
+          "id": 24341,
+          "folder": "RESOL-VI/011",
+          "name": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": []
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-08T00:00:00+02:00",
+      "opinionId": 24343,
+      "folder": "RESOL-VI/012",
+      "activation": "2016-07-08T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "short": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey ",
+      "url": "/opinion/24343",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2021538,
+        "firstName": "prenom_7886",
+        "lastName": "nom_7886",
+        "aliasName": "alias_7886"
+      },
+      "cycles": [
+        {
+          "id": 24343,
+          "folder": "RESOL-VI/012",
+          "name": "Resolution on the 2016 European Semester and in view of the 2017 Annual Growth Survey "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 137,
+              "name": "European semester / Economic Governance",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24254,
+      "folder": "RESOL-VI/010",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-06-15T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the priorities for the 2017 Work Programme of the European Commission",
+      "short": "Resolution on the priorities for the 2017 Work Programme of the European Commission",
+      "url": "/opinion/24254",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2015959,
+        "firstName": "prenom_3323",
+        "lastName": "nom_3323",
+        "aliasName": "alias_3323"
+      },
+      "cycles": [
+        {
+          "id": 24254,
+          "folder": "RESOL-VI/010",
+          "name": "Resolution on the priorities for the 2017 Work Programme of the European Commission"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 110,
+          "name": "Constitutional and Institutional Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 240,
+              "name": "Resolutions E.C. Workprogram",
+              "source": "referral",
+              "main": null,
+              "parentId": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24352,
+      "folder": "COTER-VI/016",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Missing transport links in border regions",
+      "short": "Missing transport links in border regions",
+      "url": "/opinion/24352",
+      "rapporteur": {
+        "personId": 2033146,
+        "firstName": "Michiel",
+        "lastName": "SCHEFFER",
+        "aliasName": "misch"
+      },
+      "administrator": {
+        "personId": 2026113,
+        "firstName": "prenom_10283",
+        "lastName": "nom_10283",
+        "aliasName": "alias_10283"
+      },
+      "cycles": [
+        {
+          "id": 24352,
+          "folder": "COTER-VI/016",
+          "name": "Missing transport links in border regions"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 105,
+          "name": "Transport",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 202,
+              "name": "Transport infrastructure and TEN-networks",
+              "source": "referral",
+              "main": null,
+              "parentId": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24353,
+      "folder": "RESOL-VI/013",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-06-16T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on The situation of Europe Direct Information Centres (EDIC)",
+      "short": "Resolution on the situation of Europe Direct Information Centres (EDIC)",
+      "url": "/opinion/24353",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24353,
+          "folder": "RESOL-VI/013",
+          "name": "Resolution on the situation of Europe Direct Information Centres (EDIC)"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24251,
+      "folder": "ENVE-VI/015",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Towards a new EU climate change adaptation strategy – taking an integrated approach",
+      "short": "Towards a new EU climate change adaptation strategy   – taking an integrated approach",
+      "url": "/opinion/24251",
+      "rapporteur": {
+        "personId": 2025899,
+        "firstName": "Sirpa",
+        "lastName": "HERTELL",
+        "aliasName": "sher"
+      },
+      "administrator": {
+        "personId": 2030409,
+        "firstName": "prenom_13243",
+        "lastName": "nom_13243",
+        "aliasName": "alias_13243"
+      },
+      "cycles": [
+        {
+          "id": 24251,
+          "folder": "ENVE-VI/015",
+          "name": "Towards a new EU climate change adaptation strategy   – taking an integrated approach"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 120,
+              "name": "Climate change",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24477,
+      "folder": "SEDEC-VI/016",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council amending Directive 2010/13/EU on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services in view of changing market realities",
+      "short": "Review of the audio-visual and media services Directive (AMSD)",
+      "url": "/opinion/24477",
+      "rapporteur": {
+        "personId": 2032185,
+        "firstName": "Jacint",
+        "lastName": "HORVATH",
+        "aliasName": "jhorv"
+      },
+      "administrator": {
+        "personId": 2028547,
+        "firstName": "prenom_10472",
+        "lastName": "nom_10472",
+        "aliasName": "alias_10472"
+      },
+      "cycles": [
+        {
+          "id": 24477,
+          "folder": "SEDEC-VI/016",
+          "name": "Review of the audio-visual and media services Directive (AMSD)"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24349,
+      "folder": "ECON-VI/018",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Fiscal Capacity and Automatic Stabilizers in the European Monetary Union",
+      "short": "Fiscal Capacity and Automatic Stabilizers in the European Monetary Union",
+      "url": "/opinion/24349",
+      "rapporteur": {
+        "personId": 2022334,
+        "firstName": "Carl Fredrik",
+        "lastName": "GRAF",
+        "aliasName": "cgra"
+      },
+      "administrator": {
+        "personId": 2032877,
+        "firstName": "prenom_13309",
+        "lastName": "nom_13309",
+        "aliasName": "alias_13309"
+      },
+      "cycles": [
+        {
+          "id": 24349,
+          "folder": "ECON-VI/018",
+          "name": "Fiscal Capacity and Automatic Stabilizers in the European Monetary Union"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 133,
+              "name": "Economic and Monetary Union (EMU)",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24365,
+      "folder": "ECON-VI/016",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A European agenda for the collaborative economy",
+      "short": "Collaborative economy and online platforms: a shared view of cities and regions",
+      "url": "/opinion/24365",
+      "rapporteur": {
+        "personId": 2032214,
+        "firstName": "Benedetta",
+        "lastName": "BRIGHENTI",
+        "aliasName": "bbrig"
+      },
+      "administrator": {
+        "personId": 2030746,
+        "firstName": "prenom_13325",
+        "lastName": "nom_13325",
+        "aliasName": "alias_13325"
+      },
+      "cycles": [
+        {
+          "id": 24365,
+          "folder": "ECON-VI/016",
+          "name": "Collaborative economy and online platforms: a shared view of cities and regions"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 150,
+              "name": "Internal market",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            },
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24339,
+      "folder": "NAT-VI/014",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-03-22T00:00:00+01:00",
+      "status": "Active",
+      "title": "Towards a sustainable EU food policy ",
+      "short": "Towards a sustainable EU food policy ",
+      "url": "/opinion/24339",
+      "rapporteur": {
+        "personId": 2031536,
+        "firstName": "Arno",
+        "lastName": "KOMPATSCHER",
+        "aliasName": "akomp"
+      },
+      "administrator": {
+        "personId": 2016247,
+        "firstName": "prenom_6679",
+        "lastName": "nom_6679",
+        "aliasName": "alias_6679"
+      },
+      "cycles": [
+        {
+          "id": 24339,
+          "folder": "NAT-VI/014",
+          "name": "Towards a sustainable EU food policy "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 115,
+              "name": "Food production",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24250,
+      "folder": "ENVE-VI/014",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Effective water management system: an approach to innovative solutions",
+      "short": "Effective water management system: an approach to innovative solutions",
+      "url": "/opinion/24250",
+      "rapporteur": {
+        "personId": 2033147,
+        "firstName": "Cees",
+        "lastName": "LOGGEN",
+        "aliasName": "clogg"
+      },
+      "administrator": {
+        "personId": 2020626,
+        "firstName": "prenom_8135",
+        "lastName": "nom_8135",
+        "aliasName": "alias_8135"
+      },
+      "cycles": [
+        {
+          "id": 24250,
+          "folder": "ENVE-VI/014",
+          "name": "Effective water management system: an approach to innovative solutions"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 124,
+              "name": "Water",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24342,
+      "folder": "ECON-VI/019",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Improving the governance of the European Semester: a Code of Conduct for the involvement of local and regional authorities",
+      "short": "Improving the governance of the European Semester: a Code of Conduct for the involvement of local and regional authorities",
+      "url": "/opinion/24342",
+      "rapporteur": {
+        "personId": 2031859,
+        "firstName": "Rob",
+        "lastName": "JONKMAN",
+        "aliasName": "rjonk"
+      },
+      "administrator": {
+        "personId": 2021538,
+        "firstName": "prenom_7886",
+        "lastName": "nom_7886",
+        "aliasName": "alias_7886"
+      },
+      "cycles": [
+        {
+          "id": 24342,
+          "folder": "ECON-VI/019",
+          "name": "Improving the governance of the European Semester: a Code of Conduct for the involvement of local and regional authorities"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 137,
+              "name": "European semester / Economic Governance",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-04T00:00:00+02:00",
+      "opinionId": 24429,
+      "folder": "SEDEC-VI/017",
+      "activation": "2016-07-04T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Joint Communication to the European Parliament and the Council - Towards an EU strategy for international cultural relations",
+      "short": "Towards an EU strategy for international cultural relations",
+      "url": "/opinion/24429",
+      "rapporteur": {
+        "personId": 2032166,
+        "firstName": "Apostolos",
+        "lastName": "TZITZIKOSTAS",
+        "aliasName": "atzit"
+      },
+      "administrator": {
+        "personId": 2028179,
+        "firstName": "prenom_10296",
+        "lastName": "nom_10296",
+        "aliasName": "alias_10296"
+      },
+      "cycles": [
+        {
+          "id": 24429,
+          "folder": "SEDEC-VI/017",
+          "name": "Towards an EU strategy for international cultural relations"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 163,
+              "name": "Culture",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            },
+            {
+              "id": 162,
+              "name": "Education",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-04T00:00:00+02:00",
+      "opinionId": 24475,
+      "folder": "NAT-VI/015",
+      "activation": "2016-07-04T00:00:00+02:00",
+      "adoption": "2017-03-22T00:00:00+01:00",
+      "status": "Active",
+      "title": "Commission Staff Working Document - Action Plan on the Sendai Framework for Disaster Risk Reduction 2015-2030 - A disaster risk-informed approach for all EU policies",
+      "short": "Action Plan on the Sendai Framework for Disaster Risk Reduction 2015-2030 ",
+      "url": "/opinion/24475",
+      "rapporteur": {
+        "personId": 2022515,
+        "firstName": "Adam",
+        "lastName": "BANASZAK",
+        "aliasName": "abana"
+      },
+      "administrator": {
+        "personId": 2033445,
+        "firstName": "prenom_12541",
+        "lastName": "nom_12541",
+        "aliasName": "alias_12541"
+      },
+      "cycles": [
+        {
+          "id": 24475,
+          "folder": "NAT-VI/015",
+          "name": "Action Plan on the Sendai Framework for Disaster Risk Reduction 2015-2030 "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 120,
+              "name": "Climate change",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-30T00:00:00+02:00",
+      "opinionId": 24620,
+      "folder": "ENVE-VI/016",
+      "activation": "2016-09-30T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Mid-term evaluation of the Programme for the Environment and Climate Action (LIFE) 2014-2020",
+      "short": "Mid-term evaluation of the Programme for the Environment and Climate Action (LIFE) 2014-2020",
+      "url": "/opinion/24620",
+      "rapporteur": {
+        "personId": 2028461,
+        "firstName": "Witold",
+        "lastName": "STEPIEN",
+        "aliasName": "wste"
+      },
+      "administrator": {
+        "personId": 2020626,
+        "firstName": "prenom_8135",
+        "lastName": "nom_8135",
+        "aliasName": "alias_8135"
+      },
+      "cycles": [
+        {
+          "id": 24620,
+          "folder": "ENVE-VI/016",
+          "name": "Mid-term evaluation of the Programme for the Environment and Climate Action (LIFE) 2014-2020"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 121,
+              "name": "Environment policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            },
+            {
+              "id": 123,
+              "name": "Biodiversity",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            },
+            {
+              "id": 120,
+              "name": "Climate change",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24344,
+      "folder": "CIVEX-VI/014",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council on the conditions of entry and residence of third-country nationals for the purposes of highly skilled employment ",
+      "short": "Legal migration",
+      "url": "/opinion/24344",
+      "rapporteur": {
+        "personId": 2028455,
+        "firstName": "Olgierd",
+        "lastName": "GEBLEWICZ",
+        "aliasName": "ogeb"
+      },
+      "administrator": {
+        "personId": 2015153,
+        "firstName": "prenom_3192",
+        "lastName": "nom_3192",
+        "aliasName": "alias_3192"
+      },
+      "cycles": [
+        {
+          "id": 24344,
+          "folder": "CIVEX-VI/014",
+          "name": "Legal migration"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24345,
+      "folder": "CIVEX-VI/015",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - Action Plan on the integration of third country nationals",
+      "short": "Integration of third country nationals",
+      "url": "/opinion/24345",
+      "rapporteur": {
+        "personId": 2032131,
+        "firstName": "Karl",
+        "lastName": "VANLOUWE",
+        "aliasName": "kvanl"
+      },
+      "administrator": {
+        "personId": 2030205,
+        "firstName": "prenom_10935",
+        "lastName": "nom_10935",
+        "aliasName": "alias_10935"
+      },
+      "cycles": [
+        {
+          "id": 24345,
+          "folder": "CIVEX-VI/015",
+          "name": "Integration of third country nationals"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-06-14T00:00:00+02:00",
+      "opinionId": 24387,
+      "folder": "SEDEC-VI/015",
+      "activation": "2016-06-14T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A New Skills Agenda for Europe - Working together to strengthen human capital, employability and competitiveness ",
+      "short": "A new skills Agenda for Europe ",
+      "url": "/opinion/24387",
+      "rapporteur": {
+        "personId": 2027553,
+        "firstName": "Marie-Louise",
+        "lastName": "RÖNNMARK",
+        "aliasName": "mron"
+      },
+      "administrator": {
+        "personId": 2028179,
+        "firstName": "prenom_10296",
+        "lastName": "nom_10296",
+        "aliasName": "alias_10296"
+      },
+      "cycles": [
+        {
+          "id": 24387,
+          "folder": "SEDEC-VI/015",
+          "name": "A new skills Agenda for Europe "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 162,
+              "name": "Education",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-04T00:00:00+02:00",
+      "opinionId": 24489,
+      "folder": "CIVEX-VI/016",
+      "activation": "2016-07-04T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the European Council, the Council and the European Investment Bank on establishing a new Partnership Framework with third countries under the European Agenda on Migration",
+      "short": "Partnership Framework with third countries under the European Agenda on Migration",
+      "url": "/opinion/24489",
+      "rapporteur": {
+        "personId": 2028016,
+        "firstName": "Peter",
+        "lastName": "BOSSMAN",
+        "aliasName": "pbos"
+      },
+      "administrator": {
+        "personId": 2022795,
+        "firstName": "prenom_6562",
+        "lastName": "nom_6562",
+        "aliasName": "alias_6562"
+      },
+      "cycles": [
+        {
+          "id": 24489,
+          "folder": "CIVEX-VI/016",
+          "name": "Partnership Framework with third countries under the European Agenda on Migration"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "name": "External relations, Enlargement and Neighbourhood Policy",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 170,
+              "name": "Euro-Mediterranean partnership",
+              "source": "referral",
+              "main": null,
+              "parentId": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-27T00:00:00+02:00",
+      "opinionId": 24530,
+      "folder": "CIVEX-VI/017",
+      "activation": "2016-09-27T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Directive of the European Parliament and of the Council laying down standards for the reception of applicants for international protection (recast)",
+      "short": "Reform of the Common European Asylum System – Package II and a Union Resettlement Framework",
+      "url": "/opinion/24530",
+      "rapporteur": {
+        "personId": 22007,
+        "firstName": "Vincenzo",
+        "lastName": "BIANCO",
+        "aliasName": "vbian"
+      },
+      "administrator": {
+        "personId": 2022000,
+        "firstName": "prenom_7317",
+        "lastName": "nom_7317",
+        "aliasName": "alias_7317"
+      },
+      "cycles": [
+        {
+          "id": 24530,
+          "folder": "CIVEX-VI/017",
+          "name": "Reform of the Common European Asylum System – Package II and a Union Resettlement Framework"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 109,
+          "name": "Justice and Home Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 177,
+              "name": "Migration and asylum",
+              "source": "referral",
+              "main": null,
+              "parentId": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-08T00:00:00+02:00",
+      "opinionId": 24505,
+      "folder": "COTER-VI/018",
+      "activation": "2016-07-08T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Regeneration of Port Cities and Port Areas",
+      "short": "Regeneration of Port Cities and Port Areas",
+      "url": "/opinion/24505",
+      "rapporteur": {
+        "personId": 2023184,
+        "firstName": "Stanislaw",
+        "lastName": "SZWABSKI",
+        "aliasName": "sszw"
+      },
+      "administrator": {
+        "personId": 2029450,
+        "firstName": "prenom_10957",
+        "lastName": "nom_10957",
+        "aliasName": "alias_10957"
+      },
+      "cycles": [
+        {
+          "id": 24505,
+          "folder": "COTER-VI/018",
+          "name": "Regeneration of Port Cities and Port Areas"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 131,
+              "name": "Urban policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-27T00:00:00+02:00",
+      "opinionId": 24538,
+      "folder": "ENVE-VI/017",
+      "activation": "2016-07-27T00:00:00+02:00",
+      "adoption": "2017-03-22T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a Regulation of the European Parliament and of the Council on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry into the 2030 climate and energy framework and amending regulation No 525/2013 of the European Parliament and the Council on a mechanism for monitoring and reporting greenhouse gas emissions and other information relevant to climate change",
+      "short": "Legislative proposals for a new Effort Sharing Decision and on LULUCF",
+      "url": "/opinion/24538",
+      "rapporteur": {
+        "personId": 2025831,
+        "firstName": "Juri",
+        "lastName": "GOTMANS",
+        "aliasName": "jugot"
+      },
+      "administrator": {
+        "personId": 2030409,
+        "firstName": "prenom_13243",
+        "lastName": "nom_13243",
+        "aliasName": "alias_13243"
+      },
+      "cycles": [
+        {
+          "id": 24538,
+          "folder": "ENVE-VI/017",
+          "name": "Legislative proposals for a new Effort Sharing Decision and on LULUCF"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018541,
+          "name": "6th Mandate - Commission for the Environment, Climate Change and Energy (ENVE)",
+          "short": "6th Mandate - Commission ENVE",
+          "abbreviation": "ENVE-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 100,
+          "name": "Environment",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 120,
+              "name": "Climate change",
+              "source": "referral",
+              "main": null,
+              "parentId": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-27T00:00:00+02:00",
+      "opinionId": 24537,
+      "folder": "COTER-VI/021",
+      "activation": "2016-10-27T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A European Strategy for Low-Emission Mobility",
+      "short": "A European Strategy for Low-Emission Mobility",
+      "url": "/opinion/24537",
+      "rapporteur": {
+        "personId": 2025930,
+        "firstName": "Jozsef",
+        "lastName": "RIBANYI",
+        "aliasName": "jrib"
+      },
+      "administrator": {
+        "personId": 2031982,
+        "firstName": "prenom_12066",
+        "lastName": "nom_12066",
+        "aliasName": "alias_12066"
+      },
+      "cycles": [
+        {
+          "id": 24537,
+          "folder": "COTER-VI/021",
+          "name": "A European Strategy for Low-Emission Mobility"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 105,
+          "name": "Transport",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 203,
+              "name": "Urban mobility",
+              "source": "referral",
+              "main": null,
+              "parentId": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-14T00:00:00+02:00",
+      "opinionId": 24560,
+      "folder": "RESOL-VI/014",
+      "activation": "2016-09-14T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Proposal for a Decision of the European Parliament and of the Council on a European Year of Cultural Heritage ",
+      "short": "Resolution on the European Year of Cultural Heritage in 2018",
+      "url": "/opinion/24560",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2028179,
+        "firstName": "prenom_10296",
+        "lastName": "nom_10296",
+        "aliasName": "alias_10296"
+      },
+      "cycles": [
+        {
+          "id": 24560,
+          "folder": "RESOL-VI/014",
+          "name": "Resolution on the European Year of Cultural Heritage in 2018"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 163,
+              "name": "Culture",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            },
+            {
+              "id": 162,
+              "name": "Education",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24588,
+      "folder": "COTER-VI/019",
+      "activation": "2016-10-11T00:00:00+02:00",
+      "adoption": "2016-12-07T00:00:00+01:00",
+      "status": "Active",
+      "title": "Proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) No 1316/2013 and (EU) 2015/1017 as regards the extension of the duration of the European Fund for Strategic Investments as well as the introduction of technical enhancements for that Fund and the European Investment Advisory Hub",
+      "short": "EFSI 2.0",
+      "url": "/opinion/24588",
+      "rapporteur": {
+        "personId": 2026054,
+        "firstName": "Wim",
+        "lastName": "VAN DE DONK",
+        "aliasName": "wvan"
+      },
+      "administrator": {
+        "personId": 2032048,
+        "firstName": "prenom_12233",
+        "lastName": "nom_12233",
+        "aliasName": "alias_12233"
+      },
+      "cycles": [
+        {
+          "id": 24588,
+          "folder": "COTER-VI/019",
+          "name": "EFSI 2.0"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 128,
+              "name": "European Fund for Strategic Investment (EFSI)",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-27T00:00:00+02:00",
+      "opinionId": 24590,
+      "folder": "SEDEC-VI/018",
+      "activation": "2016-09-27T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the council, the European Economic and Social Committee and the Committee of the  Regions - Connectivity for a Competitive Digital Single Market - Towards a European Gigabit Society",
+      "short": "Review of the telecom package",
+      "url": "/opinion/24590",
+      "rapporteur": {
+        "personId": 2032165,
+        "firstName": "Mart",
+        "lastName": "VORKLAEV",
+        "aliasName": "mvork"
+      },
+      "administrator": {
+        "personId": 2030634,
+        "firstName": "prenom_12956",
+        "lastName": "nom_12956",
+        "aliasName": "alias_12956"
+      },
+      "cycles": [
+        {
+          "id": 24590,
+          "folder": "SEDEC-VI/018",
+          "name": "Review of the telecom package"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-27T00:00:00+02:00",
+      "opinionId": 24595,
+      "folder": "SEDEC-VI/019",
+      "activation": "2016-09-27T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee fo the Regions - Promoting a fair, efficient and competitive European copyright-based economy in the Digital Single Market ",
+      "short": "Copyright in the digital single market ",
+      "url": "/opinion/24595",
+      "rapporteur": {
+        "personId": 2029427,
+        "firstName": "Mauro",
+        "lastName": "D'ATTIS",
+        "aliasName": "mdatt"
+      },
+      "administrator": {
+        "personId": 2023703,
+        "firstName": "prenom_7001",
+        "lastName": "nom_7001",
+        "aliasName": "alias_7001"
+      },
+      "cycles": [
+        {
+          "id": 24595,
+          "folder": "SEDEC-VI/019",
+          "name": "Copyright in the digital single market "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 205,
+          "name": "Education and Culture",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 163,
+              "name": "Culture",
+              "source": "referral",
+              "main": null,
+              "parentId": 205
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 151,
+              "name": "Digital agenda",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            },
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-27T00:00:00+02:00",
+      "opinionId": 24596,
+      "folder": "COTER-VI/020",
+      "activation": "2016-09-27T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Proposal for a regulation of the European  Parliament and of the Council on the financial rules applicable to the general budget of the Union and amending Regulation (EC) No 2012/2002, Regulations (EU) No 1296/2013, (EU) 1301/2013, (EU) No 1303/2013, EU No 1304/2013, (EU) No 1305/2013, (EU) No 1306/2013, (EU) No 1307/2013, (EU) No 1308/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014,(EU) No 283/2014, (EU) No 652/2014 of the European Parliament and of the Council and Decision No 541/2014/EU of the European Parliament and of the Council",
+      "short": "The financial rules applicable to the general budget of the Union",
+      "url": "/opinion/24596",
+      "rapporteur": {
+        "personId": 2033154,
+        "firstName": "Michiel",
+        "lastName": "RIJSBERMAN",
+        "aliasName": "mrijs"
+      },
+      "administrator": {
+        "personId": 2031329,
+        "firstName": "prenom_12149",
+        "lastName": "nom_12149",
+        "aliasName": "alias_12149"
+      },
+      "cycles": [
+        {
+          "id": 24596,
+          "folder": "COTER-VI/020",
+          "name": "The financial rules applicable to the general budget of the Union"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 135,
+              "name": "EU annual budget",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-07-04T00:00:00+02:00",
+      "opinionId": 24504,
+      "folder": "COTER-VI/017",
+      "activation": "2016-07-04T00:00:00+02:00",
+      "adoption": "2017-02-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Joint Communication to the European Parliament and the Council - An integrated European Union policy for the Arctic ",
+      "short": "Union policy for the Arctic ",
+      "url": "/opinion/24504",
+      "rapporteur": {
+        "personId": 31003,
+        "firstName": "Pauliina",
+        "lastName": "HAIJANEN",
+        "aliasName": "phai"
+      },
+      "administrator": {
+        "personId": 2031329,
+        "firstName": "prenom_12149",
+        "lastName": "nom_12149",
+        "aliasName": "alias_12149"
+      },
+      "cycles": [
+        {
+          "id": 24504,
+          "folder": "COTER-VI/017",
+          "name": "Union policy for the Arctic "
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018537,
+          "name": "6th Mandate - Commission for Territorial Cohesion Policy and EU Budget (COTER)",
+          "short": "6th Mandate  - Commission COTER",
+          "abbreviation": "COTER-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 102,
+          "name": "Cohesion Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 130,
+              "name": "Cross-border and territorial cooperation",
+              "source": "referral",
+              "main": null,
+              "parentId": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-09-29T00:00:00+02:00",
+      "opinionId": 24621,
+      "folder": "RESOL-VI/015",
+      "activation": "2016-09-29T00:00:00+02:00",
+      "adoption": "2016-10-12T00:00:00+02:00",
+      "status": "Adopté",
+      "title": "Resolution on the Mid-term Review of the Multiannual Financial Framework ",
+      "short": "Resolution on the Mid-term Review of the Multiannual Financial Framework (MFF)",
+      "url": "/opinion/24621",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24621,
+          "folder": "RESOL-VI/015",
+          "name": "Resolution on the Mid-term Review of the Multiannual Financial Framework (MFF)"
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 103,
+          "name": "Economy and Finance",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 136,
+              "name": "Multi-annual financial framework (MFF)",
+              "source": "referral",
+              "main": null,
+              "parentId": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-11T00:00:00+02:00",
+      "opinionId": 24631,
+      "folder": "ECON-VI/020",
+      "activation": "2016-10-11T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Smart Regulation for SMEs",
+      "short": "Smart Regulation for SMEs",
+      "url": "/opinion/24631",
+      "rapporteur": {
+        "personId": 2027524,
+        "firstName": "Christian",
+        "lastName": "BUCHMANN",
+        "aliasName": "cbuc"
+      },
+      "administrator": {
+        "personId": 2030635,
+        "firstName": "prenom_12957",
+        "lastName": "nom_12957",
+        "aliasName": "alias_12957"
+      },
+      "cycles": [
+        {
+          "id": 24631,
+          "folder": "ECON-VI/020",
+          "name": "Smart Regulation for SMEs"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018602,
+          "name": "6th Mandate - Commission for Economic Policy (ECON)",
+          "short": "6th Mandate - Commission ECON",
+          "abbreviation": "ECON-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 153,
+              "name": "SME policy",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24632,
+      "folder": "NAT-VI/016",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Health in cities: the common good",
+      "short": "Health in cities",
+      "url": "/opinion/24632",
+      "rapporteur": {
+        "personId": 22103,
+        "firstName": "Roberto",
+        "lastName": "PELLA",
+        "aliasName": "rpell"
+      },
+      "administrator": {
+        "personId": 2028960,
+        "firstName": "prenom_10752",
+        "lastName": "nom_10752",
+        "aliasName": "alias_10752"
+      },
+      "cycles": [
+        {
+          "id": 24632,
+          "folder": "NAT-VI/016",
+          "name": "Health in cities"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 118,
+              "name": "Public health",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24633,
+      "folder": "NAT-VI/017",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-03-22T00:00:00+01:00",
+      "status": "Active",
+      "title": "Regional healthcare systems: performance, integration and cooperation ",
+      "short": "Integration, cooperation and performance of health systems",
+      "url": "/opinion/24633",
+      "rapporteur": {
+        "personId": 2033349,
+        "firstName": "Birgitta",
+        "lastName": "SACRÉDEUS",
+        "aliasName": "bsacr"
+      },
+      "administrator": {
+        "personId": 2028960,
+        "firstName": "prenom_10752",
+        "lastName": "nom_10752",
+        "aliasName": "alias_10752"
+      },
+      "cycles": [
+        {
+          "id": 24633,
+          "folder": "NAT-VI/017",
+          "name": "Integration, cooperation and performance of health systems"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018540,
+          "name": "6th Mandate - Commission for Natural Resources (NAT)",
+          "short": "6th Mandate - Commission NAT",
+          "abbreviation": "NAT-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 101,
+          "name": "Agriculture, Maritime and Consumer policies",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 118,
+              "name": "Public health",
+              "source": "referral",
+              "main": null,
+              "parentId": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24634,
+      "folder": "SEDEC-VI/020",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Social innovation as a new tool for creating growth and jobs",
+      "short": "Social innovation as a new tool for creating growth and jobs",
+      "url": "/opinion/24634",
+      "rapporteur": {
+        "personId": 2031246,
+        "firstName": "Marcelle",
+        "lastName": "HENDRICKX",
+        "aliasName": "mahen"
+      },
+      "administrator": {
+        "personId": 2030415,
+        "firstName": "prenom_12210",
+        "lastName": "nom_12210",
+        "aliasName": "alias_12210"
+      },
+      "cycles": [
+        {
+          "id": 24634,
+          "folder": "SEDEC-VI/020",
+          "name": "Social innovation as a new tool for creating growth and jobs"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            },
+            {
+              "id": 168,
+              "name": "Social protection",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24636,
+      "folder": "SEDEC-VI/022",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-05-11T00:00:00+02:00",
+      "status": "Active",
+      "title": "Local and Regional dimension of Bioeconomy and the role of regions and cities",
+      "short": "Local and Regional dimension of Bioeconomy and the role of regions and cities",
+      "url": "/opinion/24636",
+      "rapporteur": {
+        "personId": 2034111,
+        "firstName": "Katrin",
+        "lastName": "BUDDE",
+        "aliasName": "kbudd"
+      },
+      "administrator": {
+        "personId": 2033928,
+        "firstName": "prenom_12651",
+        "lastName": "nom_12651",
+        "aliasName": "alias_12651"
+      },
+      "cycles": [
+        {
+          "id": 24636,
+          "folder": "SEDEC-VI/022",
+          "name": "Local and Regional dimension of Bioeconomy and the role of regions and cities"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Employment and Social Policy",
+          "source": "referral",
+          "main": false,
+          "themes": [
+            {
+              "id": 164,
+              "name": "Employment",
+              "source": "referral",
+              "main": null,
+              "parentId": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-11-24T00:00:00+01:00",
+      "opinionId": 24687,
+      "folder": "CIVEX-VI/018",
+      "activation": "2016-11-24T00:00:00+01:00",
+      "adoption": null,
+      "status": "Active",
+      "title": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: \r\n2016 Communication on EU Enlargement Policy",
+      "short": "EU Enlargement Strategy 2016-2017",
+      "url": "/opinion/24687",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2030348,
+        "firstName": "prenom_11918",
+        "lastName": "nom_11918",
+        "aliasName": "alias_11918"
+      },
+      "cycles": [
+        {
+          "id": 24687,
+          "folder": "CIVEX-VI/018",
+          "name": "EU Enlargement Strategy 2016-2017"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018539,
+          "name": "6th Mandate - Commission for Citizenship, Governance, Institutional and External Affairs (CIVEX)",
+          "short": "6th Mandate - Commission CIVEX",
+          "abbreviation": "CIVEX-VI"
+        }
+      ],
+      "themes": []
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24662,
+      "folder": "RESOL-VI/16",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2016-12-08T00:00:00+01:00",
+      "status": "Active",
+      "title": "Resolution on the European Commission's 2017 Work Programme   ",
+      "short": "Resolution on the European Commission's 2017 Work Programme   ",
+      "url": "/opinion/24662",
+      "rapporteur": null,
+      "administrator": {
+        "personId": 2020772,
+        "firstName": "prenom_8378",
+        "lastName": "nom_8378",
+        "aliasName": "alias_8378"
+      },
+      "cycles": [
+        {
+          "id": 24662,
+          "folder": "RESOL-VI/16",
+          "name": "Resolution on the European Commission's 2017 Work Programme   "
+        }
+      ],
+      "commissions": [],
+      "themes": [
+        {
+          "id": 110,
+          "name": "Constitutional and Institutional Affairs",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 240,
+              "name": "Resolutions E.C. Workprogram",
+              "source": "referral",
+              "main": null,
+              "parentId": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "opinion",
+      "content": "Political Work",
+      "date": "2016-10-10T00:00:00+02:00",
+      "opinionId": 24635,
+      "folder": "SEDEC-VI/021",
+      "activation": "2016-10-10T00:00:00+02:00",
+      "adoption": "2017-03-22T00:00:00+01:00",
+      "status": "Active",
+      "title": "Smart Specialisation Strategies (RIS3): impact for regions and inter-regional cooperation",
+      "short": "Smart Specialisation Strategies (RIS3): impact for regions and inter-regional cooperation",
+      "url": "/opinion/24635",
+      "rapporteur": {
+        "personId": 2033238,
+        "firstName": "Mikel",
+        "lastName": "IRUJO AMEZAGA",
+        "aliasName": "miruj"
+      },
+      "administrator": {
+        "personId": 2030634,
+        "firstName": "prenom_12956",
+        "lastName": "nom_12956",
+        "aliasName": "alias_12956"
+      },
+      "cycles": [
+        {
+          "id": 24635,
+          "folder": "SEDEC-VI/021",
+          "name": "Smart Specialisation Strategies (RIS3): impact for regions and inter-regional cooperation"
+        }
+      ],
+      "commissions": [
+        {
+          "bodyId": 2018603,
+          "name": "6th Mandate - Commission for Social policy, Education, Employment, Research and Culture (SEDEC)",
+          "short": "6th Mandate - Commission SEDEC",
+          "abbreviation": "SEDEC-VI"
+        }
+      ],
+      "themes": [
+        {
+          "id": 106,
+          "name": "Enterprise and Industry",
+          "source": "referral",
+          "main": true,
+          "themes": [
+            {
+              "id": 154,
+              "name": "Innovation and research",
+              "source": "referral",
+              "main": null,
+              "parentId": 106
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
