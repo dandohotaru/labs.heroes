@@ -91,7 +91,8 @@ $(document).ready(function () {
                     title: p.title,
                     url: p.url,
                     rapporteur: p.rapporteur ? p.rapporteur.firstName + " " + p.rapporteur.lastName : null,
-                    responsible: p.responsible ? p.responsible.firstName + " " + p.responsible.lastName : null
+                    responsible: p.responsible ? p.responsible.firstName + " " + p.responsible.lastName : null,
+                    group: p.politicalGroup ? p.politicalGroup.abbreviation : null 
 
                     // commissions: 
                     //     id: c.bodyId,
