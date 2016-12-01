@@ -3,6 +3,7 @@
 ## Start
 How it feels to learn JavaScript in 2016
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+
 The vuejs alternative path
 https://jsfiddle.net/chrisvfritz/aomd3y9n/
 
@@ -17,13 +18,13 @@ JS templating systems are at the core of recent web developpement simplification
 Limited by the smallest potential mobile devices of visitors/users/customers 
 and requiring more simplicity, recent cross platforms websites and webapps 
 typically use the design method of stacking. 
-Structurally identical basic elements (usually <div>s) are stacked vertically under each other, 
+Structurally identical basic elements (usually '<div>'s) are stacked vertically under each other, 
 each with custom contents from its data source : a local .json file, 
 a JS localStorage variable with json data, online API's json output, etc.
 Emails services such google are a good example of a stable frame 
 with data driven stacking for the main/central/dynamic area.
 
-{{syntax}} simplify the design of HTML structure and CSS style 
+'{{syntax}}' simplify the design of HTML structure and CSS style 
 to the design of one single example element : the template
 Yet, keeps the possibility of more complex schemes, 
 this easiness to learn with scalability make Handlebars.js a JS templating of choice 
@@ -111,9 +112,38 @@ a-vital-comparison-handlebars-vs-mustache-vs-angularjs
 http://cubettech.com/blog/a-vital-comparison-handlebars-vs-mustache-vs-angularjs/
 
 
-## Bootstrap
+## Styling
 Dashboard sample with responsive sticky navs and sidebar
 http://getbootstrap.com/examples/dashboard/
+
+Bootstrap-Offcanvas
+https://github.com/iamphill/Bootstrap-Offcanvas
+
+startbootstrap-simple-sidebar
+https://github.com/BlackrockDigital/startbootstrap-simple-sidebar
+
+How To Create a Card
+http://www.w3schools.com/howto/howto_css_cards.asp
+
+How TO - Side Navigation
+http://www.w3schools.com/howto/howto_js_sidenav.asp
+
+How TO - Fixed Menu
+http://www.w3schools.com/howto/howto_css_fixed_menu.asp
+
+Colcade - Lightweight masonry layout
+https://github.com/desandro/colcade
+
+Bootstrap3: fixed nav on the left
+http://stackoverflow.com/questions/19836607/bootstrap3-fixed-nav-on-the-left
+
+
+## Troubleshooting
+Handlebar.js to include another template in parent template
+http://stackoverflow.com/questions/19859931/handlebar-js-to-include-another-template-in-parent-template
+
+Handlebars, loading external template files
+http://stackoverflow.com/questions/26643503/handlebars-loading-external-template-files
 
 
 ## Gulp
