@@ -47,10 +47,30 @@ $(document).ready(function () {
                 commissions: commissionsData,
             }));
 
+            // Filters
+            var themesFilters = _.map(themesResult[0].themes, function (p) {
+                return {
+                    id: p.id,
+                    name: p.name,
+                    subthemes: _.map(p.subthemes, function(s){
+                        return {
+                            id: s.id,
+                            name: s.name,
+                        }
+                    })
+                };
+            });
+            var filtersSource = $("#themes-filters-template").html();
+            var filtersTemplate = Handlebars.compile(filtersSource);
+            var filtersMarkup = filtersTemplate({
+                themes: themesFilters,
+            });
+            $("#filters").html(filtersMarkup);
+
             // Content
             var parse = function(date){
-                var real = new Date(date);
-                var output = real.getDate() + "/" +  (real.getMonth() + 1) + "/" + real.getFullYear();
+                var actual = new Date(date);
+                var output = actual.getDate() + "/" +  (actual.getMonth() + 1) + "/" + actual.getFullYear();
                 return output;
             };
 
@@ -80,11 +100,14 @@ $(document).ready(function () {
                     //     name: c.name
                 };
             });
-            var cardSource   = $("#card-template").html();
+            var cardSource   = $("#opinion-card-template").html();
             var cardTemplate = Handlebars.compile(cardSource);
             var cardMarkup = cardTemplate({
-                cards: opinionsData});
+                cards: opinionsData,
+            });
             $("#cards").html(cardMarkup);
+
+
 
             // Footer
             var footerHtml = $($.parseHTML(footerResult[0])).filter("#footer-partial").html();

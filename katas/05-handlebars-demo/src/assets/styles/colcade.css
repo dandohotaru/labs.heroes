@@ -7,7 +7,7 @@
 
 .grid-col {
   float: left;
-  width: 49%;
+  width: 99%;
   margin-right: 1%;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .grid-col--3 { 
-  display: block; 
+  display: none; 
 }
 
 .grid-col--4 {
@@ -29,6 +29,24 @@
 }
 
 @media (min-width: 768px) {
+  .grid-col { 
+    width: 49%; 
+  }
+
+  .grid-col--1 { 
+    display: none; 
+  }
+
+  .grid-col--2 { 
+    display: block; 
+  }
+
+  .grid-col--3 { 
+    display: block; 
+  }
+}
+
+@media (min-width: 970px) {
   .grid-col { 
     width: 32%; 
   }
